@@ -12,7 +12,9 @@ Features
 - Shows a top banner
 - Shows some features of your website
 - Buttons to let visitors to visit different pages of website 
-- Subnavigation of Questions page so that users can interact more with Q2A website.
+- Sub-navigation of 'Questions' page so that users can interact more with Q2A website
+- In mobile the top widget is hidden
+- In mobile the navigation is shows so that users can still visit various sections of website
 
 ----------
 Installation
