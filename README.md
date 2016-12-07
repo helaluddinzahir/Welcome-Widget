@@ -40,4 +40,4 @@ Question2Answer is a free and open source platform for Q&A sites. For more infor
 http://www.question2answer.org/
 
 [copylefted]: http://en.wikipedia.org/wiki/Copyleft
-[Q2A]: http://www.question2answer.com
+[Q2A]: http://www.question2answer.org
