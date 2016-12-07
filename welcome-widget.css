@@ -1,10 +1,11 @@
 .ww-wrapper{
 	width: 100%;
-	border: 2px solid green;
+	/*border: 2px solid green;*/
 	background: #34495e;
 }
 .ww-icons-wrapper{
 	padding: 0px 10px;
+	border-bottom: 1px dotted #999999;
 }
 #ww-heading{
 	margin: 0px 20px;
@@ -17,11 +18,11 @@
 }
 .ww-box{
 	width: 100%;
-	border: 2px solid black;
+	/*border: 2px solid black;*/
 }
 .ww-box td{
 	text-align: center;
-	border: 2px solid yellow;
+	/*border: 2px solid yellow;*/
 	width: 33%;
 }
 .ww-box p{
@@ -60,7 +61,7 @@ ul.ww-topnav {
 ul.ww-topnav li {
 	float: left;
 	color: white;
-	border: 2px solid blue;
+	/*border: 2px solid blue;*/
 }
 ul.ww-topnav li p{
 	margin: 0px;
