@@ -1,13 +1,15 @@
 .ww-wrapper{
 	width: 100%;
-	border-bottom: 1px dotted #999999;
-	padding: 0px 10px;
+	border: 2px solid green;
 	background: #34495e;
+}
+.ww-icons-wrapper{
+	padding: 0px 10px;
 }
 #ww-heading{
 	margin: 0px 20px;
 	text-align: center;
-	font-size: 48;
+	font-size: 300%;
 	font-weight: 700;
 }
 .ww-wrapper p{
@@ -15,11 +17,11 @@
 }
 .ww-box{
 	width: 100%;
-	/*border: 2px solid black;*/
+	border: 2px solid black;
 }
 .ww-box td{
 	text-align: center;
-	/*border: 2px solid yellow;*/
+	border: 2px solid yellow;
 	width: 33%;
 }
 .ww-box p{
@@ -44,6 +46,9 @@
 	background: #4aa3df;
 	text-decoration: none;
 }
+.ww-button:visited{
+	color: white;
+}
 ul.ww-topnav {
 	list-style-type: none;
 	margin: 0;
@@ -55,7 +60,7 @@ ul.ww-topnav {
 ul.ww-topnav li {
 	float: left;
 	color: white;
-	/*border: 2px solid blue;*/
+	border: 2px solid blue;
 }
 ul.ww-topnav li p{
 	margin: 0px;
@@ -79,7 +84,7 @@ ul.ww-topnav li a:hover {background-color: #445f7a;}
 ul.ww-topnav li.icon {display: none;}
 
 @media only screen and (max-width: 680px){
-	.ww-wrapper{
+	.ww-icons-wrapper{
 		display: none;
 	}
 }

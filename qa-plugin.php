@@ -15,3 +15,8 @@ qa_register_plugin_phrases(
     'qa-welcome-widget-lang-*.php', // pattern for language files
     'plugin_ww' // prefix to retrieve phrases
 );
+
+qa_register_plugin_layer(
+  'qa-welcome-widget-layer.php', // PHP file containing layer
+  'Welcome Widget Layer' // human-readable name of layer
+);

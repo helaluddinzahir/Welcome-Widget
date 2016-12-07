@@ -1,13 +1,13 @@
 {
     "name": "Welcome Widget",
-    "uri": "Web address for your plugin",
-    "description": "Adds a welcome widget to your website",
-    "version": "0.5",
-    "date": "",
+    "uri": "https://github.com/gurjyot/Welcome-Widget",
+    "description": "Adds a welcome widget to your Q2A website",
+    "version": "0.8",
+    "date": "2016-12-07",
     "author": "Gurjyot Singh",
     "author_uri": "Web address for plugin author",
     "license": "GPLv2",
-    "update_uri": "Web address for Q2A to check for updates",
+    "update_uri": "https://raw.githubusercontent.com/gurjyot/Welcome-Widget/master/metadata.json",
     "min_q2a": "1.7",
     "min_php": "5.2"
 }
