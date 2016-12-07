@@ -4,12 +4,13 @@ Welcome Widget
 -----------
 Description
 -----------
-This is a plugin for [Question2Answer][Q2A] to show a welcome widget.
+This is a plugin for [Question2Answer][Q2A] to show a welcome widget (sort of like a banner and with navigation).
 
 --------
 Features
 --------
-- Shows some features of Q2A website
+- Shows a top banner
+- Shows some features of your website
 - Buttons to let visitors to visit different pages of website 
 - Subnavigation of Questions page so that users can interact more with Q2A website.
 
