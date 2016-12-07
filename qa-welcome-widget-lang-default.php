@@ -8,4 +8,10 @@ return array(
     'first_button' => 'Ask a Question',
     'second_button' => 'View Questions',
     'third_button' => 'View Questions',
+    'nav_title' => 'Menu >>',
+    'first_nav' => 'Recent',
+    'second_nav' => 'Hot',
+    'third_nav' => 'Most Votes',
+    'fourth_nav' => 'Most Answers',
+    'fifth_nav' => 'Most Views',
 );

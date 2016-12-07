@@ -85,13 +85,10 @@ ul.ww-topnav li a:hover {background-color: #445f7a;}
 
 ul.ww-topnav li.icon {display: none;}
 
-@media only screen and (max-width: 680px){
-	.ww-icons-wrapper{
+@media screen and (max-width:680px) {
+  .ww-icons-wrapper{
 		display: none;
 	}
-}
-
-@media screen and (max-width:680px) {
   ul.ww-topnav li:not(:first-child) {display: none;}
   ul.ww-topnav li.icon {
     float: right;
@@ -109,9 +106,11 @@ ul.ww-topnav li.icon {display: none;}
   ul.ww-topnav.responsive li {
     float: none;
     display: inline;
+
   }
   ul.ww-topnav.responsive li a {
     display: block;
     text-align: left;
+    border-top: 0.3px solid #999999;
   }
 }
